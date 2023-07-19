@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Giovani, an electrical engineer with a passion for programming.
+# 👋 Hello, I'm Giovani.
 
 🎓 While studying in college (about 10 years ago), I found joy in subjects like C, Java, and Assembly.
 
