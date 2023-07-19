@@ -11,6 +11,3 @@
 💞 I'm open to collaborating on projects that align with a just cause and offer opportunities for learning.
 
 📬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/giovanibs).
-
-
-- 📫 Reach me at: https://www.linkedin.com/in/giovanibs
