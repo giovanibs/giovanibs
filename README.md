@@ -1,9 +1,16 @@
-# 👋 Hi, my name is Giovani.
-- 🔮 I am an electrical engineer that enjoyed programming subjecs during college (C, Java and Assembly / about 10 years ago).
-- 🎯 After graduation, I worked mostly with financial planning and analysis and strategic planning.
-- 🎯 Now, I'm pursuing a career related to IT.
-- 🤖 I've worked 6 months with low-code RPA using **Python** and **AHK**.
-- 🎯 I’m currently getting deeper into Python and trying to figure out which field to work in.
-- 💞️ I’m looking to **collaborate** on anything as long as it has a **righteous** cause and provide me with opportunity to learn.
+# 👋 Hello, I'm Giovani, an electrical engineer with a passion for programming.
+
+🎓 While studying in college (about 10 years ago), I found joy in subjects like C, Java, and Assembly.
+
+🔮 After graduating, I ventured into the realm of financial planning, analysis, and strategic planning. However, I am now actively pursuing a career in the field of IT.
+
+🎯 I have gained experience in low-code Robotic Process Automation (RPA) using Python and AHK over a span of 6 months.
+
+🔍 Currently, I am diving deeper into Python and exploring various fields to find the right fit for my career.
+
+💞 I'm open to collaborating on projects that align with a just cause and offer opportunities for learning.
+
+📬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/giovanibs).
+
 
 - 📫 Reach me at: https://www.linkedin.com/in/giovanibs
